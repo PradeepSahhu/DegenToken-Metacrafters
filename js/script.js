@@ -44,7 +44,7 @@ function hideContent() {
 }
 
 function fetchABI() {
-    fetch("http://localhost:3000/artifacts/contracts/DegenToken.sol/DegenToken.json")
+    fetch("https://bhardwajrizul.github.io/DegenToken-Metacrafters/artifacts/contracts/DegenToken.sol/DegenToken.json")
         .then((response) => response.json())
         .then((data) => {
             abi = data.abi;
