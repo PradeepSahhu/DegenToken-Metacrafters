@@ -1,10 +1,12 @@
 # Degen Gaming Token (ERC20)
 
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) [![Solidity](https://img.shields.io/badge/Solidity-0.8.0-blue.svg)](https://solidity.readthedocs.io/en/v0.8.0/) [![Avalanche](https://img.shields.io/badge/Avalanche-Fuji_Network-red.svg)](https://www.avalabs.org/) [![My Badge](https://img.shields.io/badge/Metacrafters-yellow.svg)](https://www.metacrafters.io/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) [![Solidity](https://img.shields.io/badge/Solidity-0.8.0-blue.svg)](https://solidity.readthedocs.io/en/v0.8.0/) [![Avalanche](https://img.shields.io/badge/Avalanche-Fuji_Network-red.svg)](https://www.avalabs.org/) [![My Badge](https://img.shields.io/badge/Metacrafters-yellow.svg)](https://www.metacrafters.io/) [![Website Status](https://img.shields.io/website-up-down-green-red/https/bhardwajrizul.github.io/DegenToken-Metacrafters.svg)](https://bhardwajrizul.github.io/DegenToken-Metacrafters/)
 
 
 > 🎮 A unique token for Degen Gaming Studio to reward players and enhance their gaming experience using the Avalanche blockchain. 
 >**🛒** Players can redeem tokens for various items, transfer tokens, and burn tokens through the Degen Mart website. 
+
+**Website Live at** https://bhardwajrizul.github.io/DegenToken-Metacrafters/
 
 ## Description 📑
 The Degen Gaming Token (DGN) is a custom ERC20 token designed for Degen Gaming Studio. It enables players to earn rewards while playing the game and transfer or redeem these tokens for various items on the dengen mart webiste.
