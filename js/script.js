@@ -1,4 +1,5 @@
-let contractAddress = "0x418FF3FE1C50a4ACCfBB615D591d0A592e95fb12";
+let contractAddress = "0x789fb234Ab14571d97d013705D735296a23Eb442";
+
 let abi = null;
 let degenContract = null;
 
@@ -111,7 +112,7 @@ function displayError(message=null, show, error=null) {
     setTimeout(() => {
         window.location.reload();
         displayContent();
-    }, 3000);
+    }, 10000);
 }
 
 

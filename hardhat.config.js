@@ -1,4 +1,5 @@
 require("@nomicfoundation/hardhat-toolbox");
+require("dotenv").config();
 
 const FORK_FUJI = false;
 const FORK_MAINNET = false;
@@ -18,6 +19,9 @@ if (FORK_FUJI) {
 /** @type import('hardhat/config').HardhatUserConfig */
 module.exports = {
   solidity: "0.8.18",
+  etherscan: {
+    apiKey: process.env.ETHERSCAN_API_KEY
+  },
   networks: {
     hardhat: {
       gasPrice: 225000000000,
@@ -30,6 +34,7 @@ module.exports = {
       chainId: 43113,
       accounts: [
         // YOUR PRIVATE KEY HERE
+        process.env.PRIVATE_KEY
       ]
     },
     mainnet: {

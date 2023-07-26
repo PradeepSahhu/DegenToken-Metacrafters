@@ -1,6 +1,7 @@
 .u-tg {
     background: linear-gradient(to right bottom, #fc5c7d, #6a82fb);;
     color : transparent;
+    -webkit-background-clip: text;
     background-clip: text;
 }
 
